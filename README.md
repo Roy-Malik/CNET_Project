@@ -24,9 +24,6 @@ Wi-Fi network setup using access points and wireless clients.
 Full testing of network functionality including pings, traceroutes, and service reachability.
 
 📁 Files Included
-bash
-Copy
-Edit
 /CNET-Packet-Tracer-Project
 ├── project.pkt              # Cisco Packet Tracer simulation file
 ├── report.pdf   
